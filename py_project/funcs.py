@@ -8,3 +8,11 @@ def sum_num():
 
 print(sum_num())
 
+
+def subtraction_num():
+    return num_1 - num_2
+
+
+print(subtraction_num())
+
+
