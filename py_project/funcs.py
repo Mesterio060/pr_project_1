@@ -5,14 +5,9 @@ num_2 = int(input())
 def sum_num():
     return num_1 + num_2
 
-
-print(sum_num())
-
-
 def subtraction_num():
     return num_1 - num_2
 
 
-print(subtraction_num())
 
 
